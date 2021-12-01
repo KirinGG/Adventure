@@ -1,0 +1,3 @@
+name : "skeleton island"
+length: 40
+height: 40
